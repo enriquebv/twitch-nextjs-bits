@@ -12,4 +12,5 @@ NEXT_PUBLIC_TWITCH_CLIENT_ID=<twitch-client-id> # Este es para el front-end
 Esto es solo una demo, asi que:
 
 - No hay que tomar de ejemplo, guardar el token en localStorage. **Nunca** hay que guardar tokens en localStorage.
-- No se ve reflejado, pero programos SG, SSR, y IR.
+- No se ve reflejado, pero tambien usamos SG, SSR, y IR.
+- Lo de TypeScript al final por agilidad no lo usamos como hay que usarlo.
